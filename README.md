@@ -1,6 +1,8 @@
-# Avus
+<p align="center"><img src="logo.png" width="96" alt="Logótipo do Avus"></p>
 
-**Pedir vaga num lar para um familiar, sem complicações.**
+<h1 align="center">Avus</h1>
+
+<p align="center"><strong>Pedir vaga num lar para um familiar, sem complicações.</strong></p>
 
 O Avus ajuda as famílias a inscrever um familiar em Estruturas Residenciais para Pessoas Idosas (ERPI, os "lares") em Portugal. Escolhe os lares, preenche a ficha uma vez, e a app prepara a carta de pré-inscrição e o email, com os documentos em anexo. Depois, ajuda a acompanhar as respostas de cada lar.
 
@@ -33,7 +35,30 @@ O Avus ajuda as famílias a inscrever um familiar em Estruturas Residenciais par
 
 ## Capturas de ecrã
 
-<!-- screenshots/01-lares.png … -->
+<table>
+  <tr>
+    <td><img src="screenshots/01-lares.png" alt="Lista de lares, ordenados pela distância à morada do utente"></td>
+    <td><img src="screenshots/02-mapa.png" alt="Mapa dos lares de Sintra"></td>
+    <td><img src="screenshots/03-ficha.png" alt="Ficha do utente"></td>
+  </tr>
+  <tr>
+    <td align="center">Lares, por distância</td>
+    <td align="center">Mapa</td>
+    <td align="center">Ficha do utente</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/04-documentos.png" alt="Lista de documentos com anexos"></td>
+    <td><img src="screenshots/05-enviar.png" alt="Envio do email e carta de pré-inscrição"></td>
+    <td><img src="screenshots/06-respostas.png" alt="Acompanhamento das respostas dos lares"></td>
+  </tr>
+  <tr>
+    <td align="center">Documentos</td>
+    <td align="center">Enviar</td>
+    <td align="center">Respostas</td>
+  </tr>
+</table>
+
+<sub>Capturas com dados fictícios: a utente, a familiar e os lares que aparecem em "Respostas" são exemplos e não existem.</sub>
 
 ## Instalar
 
