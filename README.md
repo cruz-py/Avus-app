@@ -12,7 +12,7 @@ O Avus ajuda as famílias a inscrever um familiar em Estruturas Residenciais par
 
 ### Encontrar lares
 - **Lista oficial incluída:** todas as ERPI licenciadas de Portugal continental, segundo a [Carta Social](https://www.cartasocial.pt) (Direção-Geral da Solidariedade e Segurança Social).
-- **Lista ou mapa**, com pesquisa e filtros por distrito, concelho e "Com vagas".
+- **Lista ou mapa**, com pesquisa e filtros por distrito e concelho.
 - **Ocupação** de cada lar (utentes e capacidade), tal como indicada à Carta Social.
 - **Perto de…:** ordena os lares pela distância à morada do utente, do familiar, a um código postal ou a um concelho. A distância é calculada no telemóvel.
 
