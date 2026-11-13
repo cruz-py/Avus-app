@@ -88,9 +88,13 @@ O Avus é gratuito, sem anúncios e sem rastreio, e é feito no meu tempo livre.
 
 São bem-vindos em [Issues](https://github.com/cruz-py/Avus-app/issues).
 
+## Código-fonte
+
+O Avus é software livre, com a licença [GPL-3.0](https://github.com/cruz-py/Avus/blob/main/LICENSE). O código-fonte está em **[cruz-py/Avus](https://github.com/cruz-py/Avus)**: pode verificar o que a app faz com os seus dados.
+
 ## Componentes de código aberto
 
-O Avus não é de código aberto. Usa estes componentes:
+O Avus usa estes componentes:
 
 - **AndroidX / Jetpack Compose, Material 3, WorkManager** (Apache License 2.0).
 - **MapLibre Native** (BSD 2-Clause) para o mapa.
